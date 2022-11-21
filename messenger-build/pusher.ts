@@ -6,7 +6,7 @@ import ClientPusher from 'pusher-js';
 export const severPusher = new Pusher({
     appId: '1506907',
     key: '5902df04fcbcd76c06a5',
-    secret: '4cdb9b06ee46743cbd4a',
+    secret: '',
     cluster: 'ap1',
     useTLS: true,
 })
